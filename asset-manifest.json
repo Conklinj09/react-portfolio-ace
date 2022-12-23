@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-ace/static/css/main.234a79c5.css",
+    "main.js": "/react-portfolio-ace/static/js/main.66821bef.js",
+    "static/js/787.084feeef.chunk.js": "/react-portfolio-ace/static/js/787.084feeef.chunk.js",
+    "static/media/02-hero-bg.jpg": "/react-portfolio-ace/static/media/02-hero-bg.3f4b8a47f17655a4ac17.jpg",
+    "static/media/my-run-buddy-shot.jpg": "/react-portfolio-ace/static/media/my-run-buddy-shot.227d2ba2570b4072e0f8.jpg",
+    "static/media/flickgenie.jpg": "/react-portfolio-ace/static/media/flickgenie.7a5218e942f391abcd60.jpg",
+    "static/media/Workday-Scheduler.jpeg": "/react-portfolio-ace/static/media/Workday-Scheduler.101c7af49cfac342c367.jpeg",
+    "static/media/Coding-Quiz.jpg": "/react-portfolio-ace/static/media/Coding-Quiz.308931be546f75ba1257.jpg",
+    "static/media/EmployeeTracker.jpg": "/react-portfolio-ace/static/media/EmployeeTracker.acf58181dda90a44a05a.jpg",
+    "static/media/Password-Generator.jpg": "/react-portfolio-ace/static/media/Password-Generator.17b6fd261355a2b5cbfd.jpg",
+    "static/media/Weather-Dashboard.jpg": "/react-portfolio-ace/static/media/Weather-Dashboard.6aeb8269beab11635dce.jpg",
+    "static/media/logo.svg": "/react-portfolio-ace/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-portfolio-ace/index.html",
+    "main.234a79c5.css.map": "/react-portfolio-ace/static/css/main.234a79c5.css.map",
+    "main.66821bef.js.map": "/react-portfolio-ace/static/js/main.66821bef.js.map",
+    "787.084feeef.chunk.js.map": "/react-portfolio-ace/static/js/787.084feeef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.234a79c5.css",
+    "static/js/main.66821bef.js"
+  ]
+}
